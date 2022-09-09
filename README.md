@@ -40,3 +40,4 @@
 * THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
 ## Deployed Link
+https://jba-techblog.herokuapp.com/
